@@ -7,8 +7,8 @@
 - 💬 Ask me about anything related to Python/Solidity
 - 📫 How to reach me: wil.brooks07@gmail.com
 - ⚡ Hobbies: 
-        - Soccer⚽️
-        - Football🏈
-        - 5k🥇
-        - Hiking🧗🏾‍♂️ 
+         Soccer⚽️
+         Football🏈
+         5k🥇
+         Hiking🧗🏾‍♂️ 
 
