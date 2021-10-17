@@ -1,16 +1,14 @@
-### Hi there 👋
+# Hey! 😎 I'm Will Brooks, Nice to see you.
 
-<!--
-**Wil-bro0824/Wil-bro0824** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Welcome to my creative Space 👨🏾‍💻 
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on something inspiring 🎨
+- 🌱 I’m currently learning Python/Solidity/Javascript  📚
+- 💬 Ask me about anything related to Python/Solidity
+- 📫 How to reach me: wil.brooks07@gmail.com
+- ⚡ Hobbies: 
+        - Soccer⚽️
+        - Football🏈
+        - 5k🥇
+        - Hiking🧗🏾‍♂️ 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
